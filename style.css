@@ -198,12 +198,7 @@ section {
     text-align: center;
 }
 
-#social-container {
-    display: flex;
-    justify-content: center;
-    margin-top: 1rem;
-    gap: 1rem;
-}
+
 
 /*ICON*/
 
