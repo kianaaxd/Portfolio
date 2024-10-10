@@ -207,6 +207,10 @@ section {
     height: 2rem;
 }
 
+img {
+    border-radius: 50%;
+  }
+
 /*BUTTONS*/
 
 .btn-container {
